@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1466502291 source:/home/kakses/Dokumenty/programy/klasy3/klasa.cpp
+	<iostream>
+	"klasa.h"
+
+1466502245 /home/kakses/Dokumenty/programy/klasy3/klasa.h
+	<iostream>
+
+1466501934 source:/home/kakses/Dokumenty/programy/klasy3/main.cpp
+	<iostream>
+	"klasa.h"
+

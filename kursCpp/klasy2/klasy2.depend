@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1466440919 source:/home/kakses/Dokumenty/programy/klasy2/main.cpp
+	<iostream>
+	"pytanie.h"
+
+1466440368 /home/kakses/Dokumenty/programy/klasy2/pytanie.h
+	<iostream>
+
+1466441822 source:/home/kakses/Dokumenty/programy/klasy2/pytanie.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"pytanie.h"
+

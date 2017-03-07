@@ -1,0 +1,16 @@
+<html>
+<body>
+	<input type="value" id="v" value="wpisz liczbe">
+	<input type="button" id="b" value="sprawdz" onclick="sprawdz();">
+	<div id="w">
+<script>
+    var wyswietl = document.getElementById("w");
+function sprawdz() {    
+    var wartosc = document.getElementById("v").value;
+    if(wartosc > 0) {wyswietl.innerHTML="dodatnie";}
+    else {wyswietl.innerHTML="ujemne";}
+}
+
+</script>
+</body>
+</html>
